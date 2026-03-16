@@ -1,1 +1,1 @@
-# Influencer-Engagement-and-Sponsorship-Co-ordination-Platform
+Project Statement: Influencer Engagement & Sponsorship Coordination Platform - V2 The Influencer Engagement & Sponsorship Coordination Platform is designed to create a seamless connection between sponsors and influencers, enabling sponsors to effectively promote their products and services while providing influencers with opportunities for monetary compensation.
