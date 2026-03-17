@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Author
 
-**Manoj Prathapa**  
+**Kishore Moturu**  
 
 ## 🚀 Project Overview
 
